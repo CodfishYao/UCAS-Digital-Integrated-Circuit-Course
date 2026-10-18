@@ -1,13 +1,13 @@
-# VerilogStudy | Verilog学习
+# UCAS-Digital-Integrated-Circuit-Course | UCAS高等数字集成电路课程作业开源
 
 ## 1 概述
 
 ***HELLO！***
 ***你好！***
 
-There are some verilog projects, which are the studying codes of me when I'm studying for a Master degree.
+This project is the open-source version of the various assignments for the graduate courses (Advanced Digital Integrated Circuits) at the UCAS. All current and future students are welcome to access and use it in accordance with the regulations.
 
-这里是一些Verilog工程，包括我在硕士学位学习期间的学习内容。
+本项目是UCAS研究生课程（高等数字集成电路）的各项作业的开源，欢迎各位学弟学妹符合规定地查询、使用。
 
 ## 2 项目内容
 
